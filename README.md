@@ -2,7 +2,8 @@
 My name is Jasmine Phan. I am pursuing M.Sc. in Data Science in Australia. I am interested in Artificial Intelligence and Machine Learning.<br>
 ## 📫 How to reach me: 
 
-[[Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/jasmine-phan-8676b8194/) [[GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/Jasminephannd) [![Instagram](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UCmWoR99ABLcX4c6o1hv4MVQ)
+[LinkedIn](https://www.linkedin.com/in/jasminephannd/) <br />
+[GitHub](https://github.com/Jasminephannd)  
 
 <br />
 
